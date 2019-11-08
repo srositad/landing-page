@@ -31,7 +31,7 @@ If you already have a GitHub profile (obviously)
 
 Voila! Your site should be live at `https://{username}.github.io`
 
-Here's my **Dev Landing Page** - [Syarifah Rosita Dewi(https://srositad.github.io)]
+Here's my **Dev Landing Page** - [Syarifah Rosita Dewi](https://srositad.github.io)
 
 ### Custom Domain
 
